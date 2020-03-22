@@ -32,11 +32,3 @@ variable "restrict_public_buckets" {
   type        = bool
   default     = false
 }
-
-
-
-block_public_acls= ""
-block_public_policy= ""
-ignore_public_acls= ""
-restrict_public_buckets = ""
-
